@@ -64,7 +64,9 @@ class Student
     SELECT COUNT(students.id)
     FROM students 
     Where grade = 9; 
-    sql 
+    SQL 
+    
+    
     
   end 
   
