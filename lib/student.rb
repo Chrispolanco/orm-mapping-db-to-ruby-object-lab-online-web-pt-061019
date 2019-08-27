@@ -76,20 +76,6 @@ class Student
         FROM students 
         WHERE grade < 12; 
       SQL
-      
-      
-      
-    end 
-    
-  end 
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
