@@ -63,7 +63,9 @@ class Student
     sql = <<-SQL
     SELECT COUNT(students.id)
     FROM students 
-    Where grade = 0 
+    Where grade = 9; 
+    sql 
+    
   end 
   
   
